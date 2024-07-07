@@ -1,2 +1,2 @@
-# food_delivery
-developed a user interface of food delivery website
+# food-delivery-website-fronend
+food delivery frontend

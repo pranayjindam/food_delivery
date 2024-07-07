@@ -1,0 +1,74 @@
+body{
+background: rgb(254, 49, 49);
+background-size: cover;
+}
+#signup{
+    color: black;
+    position: relative;
+    left:15%;
+    top:20px;
+}
+.container{
+    background: white;
+    height: 500px;
+    width: 350px;
+    border-radius: 15px;
+    border: black solid ;
+    position: fixed;
+    right: 40%;
+}
+.text{
+    margin-top: 3%;
+    position: relative;
+    left: 6%;
+    height: 30px;
+    border-radius: 5px;
+    width: 300px;
+
+}
+#logo{
+    color: #ff3838;
+    font-size: 60px;
+    margin-bottom: 30px;
+    font-weight: bolder;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    position: relative;
+    left: 25%;
+}
+#register{
+    margin-top:10%;
+    margin-left: 40px;
+    width: 200px;
+    height: 30px;
+    margin-left: 65px;
+    border: #ff3838 solid ;
+    border-radius: 10px;
+    background: #ff3838;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+}
+#register:hover{
+    border:black solid 3px;
+}
+#heading{
+    position: relative;
+    left: 80px;
+    font-size: medium;
+}
+#login{
+    margin-left: 40px;
+    width: 200px;
+    height: 30px;
+    margin-left: 65px;
+    border: #ff3838 solid ;
+    border-radius: 10px;
+    background: #ff3838;
+    color: white;
+    font-weight: bolder;
+    font-size: 20px;
+}
+#login:hover{
+    border: solid black 3px;
+}
